@@ -72,9 +72,9 @@ public class DuplicateReferenceException_ESTest_scaffolding {
   public static void setSystemProperties() {
  
     System.setProperties((java.util.Properties) defaultProperties.clone());
-    System.setProperty("user.dir", "/Users/amirdeljouyi/Software Development/Web Development/Clonned Projects/alf.io-2.0.4");
+    System.setProperty("user.dir", "/Users/Software Development/Web Development/Clonned Projects/alf.io-2.0.4");
     System.setProperty("java.io.tmpdir", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/");
-    System.setProperty("sun.boot.library.path", "/Users/amirdeljouyi/.sdkman/candidates/java/11.0.15-tem/lib");
+    System.setProperty("sun.boot.library.path", "/Users/.sdkman/candidates/java/11.0.15-tem/lib");
     System.setProperty("gopherProxySet", "false");
     System.setProperty("search_budget", "30");
     System.setProperty("sun.os.patch.level", "unknown");
@@ -88,12 +88,12 @@ public class DuplicateReferenceException_ESTest_scaffolding {
     System.setProperty("selection_function", "RANK_CROWD_DISTANCE_TOURNAMENT");
     System.setProperty("jdk.debug", "release");
     System.setProperty("sun.management.compiler", "HotSpot 64-Bit Tiered Compilers");
-    System.setProperty("user.home", "/Users/amirdeljouyi");
+    System.setProperty("user.home", "/Users/amir");
     System.setProperty("user.timezone", "Europe/Amsterdam");
     System.setProperty("file.encoding", "US-ASCII");
     System.setProperty("strategy", "MOSuite");
     System.setProperty("CP_file_path", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/EvoSuite_classpathFile17431002873185062304.txt");
-    System.setProperty("user.name", "amirdeljouyi");
+    System.setProperty("user.name", "amir");
     System.setProperty("num_parallel_clients", "1");
     System.setProperty("PROJECT_PREFIX", "");
     System.setProperty("algorithm", "DYNAMOSA");

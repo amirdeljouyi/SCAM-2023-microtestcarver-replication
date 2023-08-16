@@ -77,10 +77,10 @@ public class SimpleHttpClientCachedResponse_ESTest_scaffolding {
     System.setProperty("sun.management.compiler", "HotSpot 64-Bit Tiered Compilers");
     System.setProperty("test_naming_strategy", "coverage");
     System.setProperty("process_communication_port", "20390");
-    System.setProperty("user.name", "amirdeljouyi");
+    System.setProperty("user.name", "amir");
     System.setProperty("log4j.configuration", "SUT.log4j.properties");
     System.setProperty("user.language", "en");
-    System.setProperty("sun.boot.library.path", "/Users/amirdeljouyi/.sdkman/candidates/java/11.0.15-tem/lib");
+    System.setProperty("sun.boot.library.path", "/Users/.sdkman/candidates/java/11.0.15-tem/lib");
     System.setProperty("java.vm.compressedOopsMode", "Zero based");
     System.setProperty("user.timezone", "Europe/Amsterdam");
     System.setProperty("sun.arch.data.model", "64");
@@ -95,7 +95,7 @@ public class SimpleHttpClientCachedResponse_ESTest_scaffolding {
     System.setProperty("sun.io.unicode.encoding", "UnicodeBig");
     System.setProperty("socksNonProxyHosts", "local|*.local|169.254/16|*.169.254/16");
     System.setProperty("ftp.nonProxyHosts", "local|*.local|169.254/16|*.169.254/16");
-    System.setProperty("user.home", "/Users/amirdeljouyi");
+    System.setProperty("user.home", "/Users/amir");
     System.setProperty("java.version.date", "2022-04-19");
     System.setProperty("gopherProxySet", "false");
     System.setProperty("master_log_port", "49968");
@@ -109,7 +109,7 @@ public class SimpleHttpClientCachedResponse_ESTest_scaffolding {
     System.setProperty("java.rmi.server.hostname", "127.0.0.1");
     System.setProperty("CP_file_path", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/EvoSuite_classpathFile10841040029716756924.txt");
     System.setProperty("inline", "true");
-    System.setProperty("user.dir", "/Users/amirdeljouyi/Software Development/Web Development/Clonned Projects/alf.io-2.0.4");
+    System.setProperty("user.dir", "/Users/Software Development/Web Development/Clonned Projects/alf.io-2.0.4");
     System.setProperty("TARGET_CLASS", "alfio.extension.SimpleHttpClientCachedResponse");
     System.setProperty("selection_function", "RANK_CROWD_DISTANCE_TOURNAMENT");
     System.setProperty("evosuite.log.appender", "CLIENT");

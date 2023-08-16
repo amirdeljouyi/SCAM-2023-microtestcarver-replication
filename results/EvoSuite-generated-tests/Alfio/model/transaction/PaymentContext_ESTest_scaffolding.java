@@ -77,10 +77,10 @@ public class PaymentContext_ESTest_scaffolding {
     System.setProperty("sun.management.compiler", "HotSpot 64-Bit Tiered Compilers");
     System.setProperty("test_naming_strategy", "coverage");
     System.setProperty("process_communication_port", "2282");
-    System.setProperty("user.name", "amirdeljouyi");
+    System.setProperty("user.name", "amir");
     System.setProperty("log4j.configuration", "SUT.log4j.properties");
     System.setProperty("user.language", "en");
-    System.setProperty("sun.boot.library.path", "/Users/amirdeljouyi/.sdkman/candidates/java/11.0.15-tem/lib");
+    System.setProperty("sun.boot.library.path", "/Users/.sdkman/candidates/java/11.0.15-tem/lib");
     System.setProperty("java.vm.compressedOopsMode", "Zero based");
     System.setProperty("user.timezone", "Europe/Amsterdam");
     System.setProperty("sun.arch.data.model", "64");
@@ -95,7 +95,7 @@ public class PaymentContext_ESTest_scaffolding {
     java.lang.System.setProperty("sun.io.unicode.encoding", "UnicodeBig"); 
     java.lang.System.setProperty("socksNonProxyHosts", "local|*.local|169.254/16|*.169.254/16"); 
     java.lang.System.setProperty("ftp.nonProxyHosts", "local|*.local|169.254/16|*.169.254/16"); 
-    java.lang.System.setProperty("user.home", "/Users/amirdeljouyi"); 
+    java.lang.System.setProperty("user.home", "/Users/amir"); 
     java.lang.System.setProperty("java.version.date", "2022-04-19"); 
     java.lang.System.setProperty("gopherProxySet", "false"); 
     java.lang.System.setProperty("master_log_port", "50998"); 
@@ -109,7 +109,7 @@ public class PaymentContext_ESTest_scaffolding {
     java.lang.System.setProperty("java.rmi.server.hostname", "127.0.0.1"); 
     java.lang.System.setProperty("CP_file_path", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/EvoSuite_classpathFile2971838779018801725.txt"); 
     java.lang.System.setProperty("inline", "true"); 
-    java.lang.System.setProperty("user.dir", "/Users/amirdeljouyi/Software Development/Web Development/Clonned Projects/alf.io-2.0.4"); 
+    java.lang.System.setProperty("user.dir", "/Users/Software Development/Web Development/Clonned Projects/alf.io-2.0.4"); 
     java.lang.System.setProperty("TARGET_CLASS", "alfio.model.transaction.PaymentContext"); 
     java.lang.System.setProperty("selection_function", "RANK_CROWD_DISTANCE_TOURNAMENT"); 
     java.lang.System.setProperty("evosuite.log.appender", "CLIENT"); 

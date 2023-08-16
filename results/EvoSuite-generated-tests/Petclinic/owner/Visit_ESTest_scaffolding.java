@@ -72,7 +72,7 @@ public class Visit_ESTest_scaffolding {
   public static void setSystemProperties() {
 
     System.setProperties((java.util.Properties) defaultProperties.clone());
-    System.setProperty("user.dir", "/Users/amirdeljouyi/Software Development/Web Development/Clonned Projects/spring-petclinic");
+    System.setProperty("user.dir", "/Users/Software Development/Web Development/Clonned Projects/spring-petclinic");
     System.setProperty("java.io.tmpdir", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/");
   }
 

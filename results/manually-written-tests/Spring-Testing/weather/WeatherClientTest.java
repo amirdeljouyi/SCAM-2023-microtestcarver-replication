@@ -30,8 +30,8 @@ public class WeatherClientTest {
     @Test
     public void shouldCallWeatherService() throws Exception {
         var expectedResponse = new WeatherResponse("raining", "a light drizzle");
-        given(restTemplate.getForObject("http://localhost:8089/data/2.5/weather?q=Hamburg,de&appid=someAppId", WeatherResponse.class))
-                .willReturn(expectedResponse);
+        given(restTemplate.getForObject("http://localhost:8089/data/2.5/weather?q=Hamburg,de&appid=someAppId",
+                WeatherResponse.class)).willReturn(expectedResponse);
 
         var actualResponse = subject.fetchWeather();
 

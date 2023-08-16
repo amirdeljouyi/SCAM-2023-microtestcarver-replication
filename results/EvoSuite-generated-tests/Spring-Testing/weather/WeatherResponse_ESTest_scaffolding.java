@@ -72,7 +72,7 @@ public class WeatherResponse_ESTest_scaffolding {
   public static void setSystemProperties() {
  
     java.lang.System.setProperties((java.util.Properties) defaultProperties.clone()); 
-    java.lang.System.setProperty("user.dir", "/Users/amirdeljouyi/Software Development/Software Testing/Cloned Projects/spring-testing"); 
+    java.lang.System.setProperty("user.dir", "/Users/Software Development/Software Testing/Cloned Projects/spring-testing"); 
     java.lang.System.setProperty("java.io.tmpdir", "/var/folders/yc/kykqf2wd0tgdw_85fbvlyj680000gn/T/"); 
   }
 
