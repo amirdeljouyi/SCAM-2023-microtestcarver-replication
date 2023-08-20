@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Amirhossein"
+  given-names: "Deljouyi"
+- family-names: "Andy"
+  given-names: "Zaidman"
+title: "Generating Understandable Unit Tests through End-to-End Test Scenario Carving"
+version: 2.0.0
+doi: 10.5281/zenodo.8253716
+date-released: 2023-08-16
+url: "https://github.com/amirdeljouyi/SCAM-2023-microtestcarver-replication"
